@@ -8,6 +8,6 @@
 
 Результат:
 
-- ![после обработки](https://raw.githubusercontent.com/Alexey04Sharapov/fractal_labs/main/images/img_res_7.jpg?raw=true)
+- ![после обработки](https://raw.githubusercontent.com/Alexey04Sharapov/fractal_labs/main/images/img_res_7_1.jpg?raw=true)
 
 Видно, что изменения размерности Минковского довольно значительны.
